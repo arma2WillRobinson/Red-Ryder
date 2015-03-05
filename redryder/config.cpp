@@ -19,6 +19,7 @@ class CfgPatches
 		units[] = {};
 		weapons[] = {"RedRyder"};
 		requiredVersion = 1.00000;
+		requiredAddons[] = {};
 	};
 };
 class CfgModels
